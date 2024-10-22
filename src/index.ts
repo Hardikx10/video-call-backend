@@ -25,6 +25,6 @@ io.on('connection', (socket: Socket) => {
   })
 });
 
-server.listen(443, () => {
-    console.log('listening on 443');
+server.listen(3000, () => {
+    console.log('listening on 3000');
 });
