@@ -1,0 +1,39 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Typescript
+*.tsbuildinfo
+
+# Output directories
+dist/
+build/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variable files
+.env
+.env.*.local
+
+# TypeScript coverage directories
+coverage/
+
+# IDE/Editor specific
+.vscode/
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# Other system files
+Thumbs.db
